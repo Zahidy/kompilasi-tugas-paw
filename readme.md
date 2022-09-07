@@ -7,6 +7,7 @@
             <th>Bobot CLO</th>
             <th>Bentuk Asesmen</th>
             <th>Bobot Asesmen</th>
+            <th>Link Video</th>
         </tr>
     </thead>
     <tbody>
