@@ -10,3 +10,18 @@
 <li>c</li>
 <li>c</li>
 <h2>Struktur Data</h2>
+<h3>User</h3>
+<table>
+<tr>
+    <th>Atribut</th>
+    <th>Tipe Data</th>
+    <th>Contoh</th>
+  </tr>
+  <tr>
+    <td>ID</td>
+    <td>Integer</td>
+    <td>23</td>
+  </tr>
+</table>
+<h2>UX Wireframe</h2>
+<img></img>
