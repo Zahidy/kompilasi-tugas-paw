@@ -1,6 +1,6 @@
 <h1> PROPOSAL APLIKASI </h1>
 <h2>Permasalahan</h2>
-<li>Kapasitas bnlaadjfajdnfad</li>
+<li>Kondisi parkiran di lahan parkir UIN Sunan Gunung Djati Bandung yang tidak terkoordinir dengan baik dan lahan yang terbatas.</li>
 <h2>Rancangan Solusi</h2>
 <li>a</li>
 <li>b</li>
