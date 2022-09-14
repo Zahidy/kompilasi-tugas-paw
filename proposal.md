@@ -24,27 +24,27 @@
     <tr>
     <td>Plat Nomer</td>
     <td>String</td>
-    <td>23</td>
+    <td>BG 1 HH</td>
   </tr>
     <tr>
     <td>Jenis</td>
     <td>String</td>
-    <td>23</td>
+    <td>Motor</td>
   </tr>
     <tr>
     <td>Merek</td>
     <td>String</td>
-    <td>23</td>
+    <td>Honda Beat</td>
   </tr>
     <tr>
     <td>Jam Masuk</td>
     <td>Timestamp</td>
-    <td>23</td>
+    <td>2022-09-14 12:00:00</td>
   </tr>
     <tr>
     <td>Jam Keluar</td>
     <td>Timestamp</td>
-    <td>23</td>
+    <td>2022-09-14 14:00:00</td>
   </tr>
 </table>
 <h2>UX Wireframe</h2>
