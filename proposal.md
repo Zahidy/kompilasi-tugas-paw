@@ -19,7 +19,7 @@
   <tr>
     <td>Kode</td>
     <td>String</td>
-    <td>23</td>
+    <td>ab1232</td>
   </tr>
     <tr>
     <td>Plat Nomer</td>
