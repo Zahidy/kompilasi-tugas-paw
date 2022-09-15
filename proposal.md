@@ -48,4 +48,6 @@
   </tr>
 </table>
 <h2>UX Wireframe</h2>
-<img src="tampilan-SGD-Parking-System.jpeg" alt="Tampan dan Berani" width="1000" height="600">
+<img src="login.jpeg" alt="login" width="1000" height="600">
+<img src="tampilan-SGD-Parking-System.jpeg" alt="home" width="1000" height="600">
+<img src="daftar-kendaraan.jpeg" alt="login" width="1000" height="600">
